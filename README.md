@@ -1,4 +1,4 @@
-# משחק איש תלוי 🎮
+# משחק איש תלוי
 ## כללי המשחק
 מטרת המשחק היא לנחש את המילה שנבחרה, המשחק יציג שורה של רווחים שמייצגים את המילה הנסתרת.<br>
 בכל שלב, המשתמש מנחש אות שקיימת במילה,<br>
@@ -13,7 +13,7 @@
 ```bash
 git clone https://github.com/shirabiton/hang-man-game.git
 ```
-הרץ את הקובץ main.py (לחץ על "run"), ותתחיל לשחק 🏁
+הרץ את הקובץ main.py (לחץ על "run"), והתחל במשחק 🏁
 
 
 ## איך זה נראה בפועל
