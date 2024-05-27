@@ -20,4 +20,8 @@ git clone https://github.com/shirabiton/hang-man-game.git
 ![hang man game](Screenshots/1.png)
 ![hang man game](Screenshots/2.png)
 ![hang man game](Screenshots/3.png)
-![hang man game](Screenshots/4.png)
+![hang man game](Screenshots/4.png) <br><br>
+
+<small>© 2024 shira_biton. All rights reserved.</small>
+
+
