@@ -1,6 +1,6 @@
-# משחק איש תלוי
-## סקירה כללית
-דמותו של האיש התלוי מצויירת בסימני מקלדת פשוטים בקוד, כך:
+# Hang Man Game
+## Overview
+The figure of the hanging man is drawn with simple keyboard symbols in code, like this:
 
 ```
   +---+
@@ -12,29 +12,23 @@
 =========
 ```
 
-בשלב זה, ניתן לשחק רק בקונסול של הפרויקט.
-
-## כללי המשחק
-מטרת המשחק היא לנחש את המילה שנבחרה, המשחק יציג שורה של רווחים שמייצגים את המילה הנסתרת.<br>
-בכל שלב, המשתמש ינחש אות שקיימת במילה,<br>
-אם האות מופיעה במילה שנבחרה - תיחשף האות בכל המקומות בהם היא מופיעה במילה,<br>
-ואילו, אם האות שגויה - דמותו של האיש התלוי תתחיל להתהוות, והאות השגויה תירשם בצד.<br>
-המשחק מסתיים כאשר דמותו של האיש התלוי נחשפה - סך הכל 6 ניחושים שגויים.<br>
-אך אם הצלחתם לנחש את המילה לפני כן - ניצחתם 🏅<br>
-
-## שימוש בטכנולוגיות
-- שפת Python.<br>
-
-## התקנה
-ראשית הורד את הקובץ למחשב המקומי שלך על ידי הפקודה הבאה בשורת הפקודה של התיקייה הרצויה:
-
+At this point, you can only play on the project's console.
+## Game Rules
+The aim of the game is to guess the chosen word, the game will display a series of spaces that represent the hidden word.<br>
+At each step, the user will guess a letter that exists in the word,<br>
+if the letter appears in the selected word - the letter will be revealed in all the places where it appears in the word.<br>
+Whereas, if the letter is wrong - the figure of the hanged man will begin to form, and the wrong letter will be written on the side.<br>
+The game ends when the figure of the hanged man is revealed - a total of 6 wrong guesses.<br>
+But if you managed to guess the word before - you won 🏅<br>
+## Use Of Technologies
+- Python language.
+## Installation
+First clone the file to your local computer by the following command in the command line of the desired folder:
 ```bash
 git clone https://github.com/shirabiton/hang-man-game.git
 ```
-הרץ את הקובץ main.py (לחץ על "run"), והתחל במשחק 🏁<br>
-
-
-## אז איך זה נראה בפועל?
+Run the file main.py (click "run"), and start the game 🏁<br>
+## So what does it actually look like?
 ![hang man game](Screenshots/1.png)
 ![hang man game](Screenshots/2.png)
 ![hang man game](Screenshots/3.png)
