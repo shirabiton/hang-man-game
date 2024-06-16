@@ -1,4 +1,4 @@
-# Hang Man Game
+# Hangman Game
 ## Overview
 The figure of the hanging man is drawn with simple keyboard symbols in code, like this:
 
