@@ -27,7 +27,7 @@ First clone the file to your local computer by the following command in the comm
 ```bash
 git clone https://github.com/shirabiton/hang-man-game.git
 ```
-Run the file main.py (click "run"), and start the game 🏁<br>
+Run the file main.py, and start the game 🏁<br>
 ## So what does it actually look like?
 ![hang man game](Screenshots/1.png)
 ![hang man game](Screenshots/2.png)
